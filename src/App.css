@@ -2,6 +2,10 @@
   text-align: center;
 }
 
+.tableau{
+  align-items: center;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +39,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} 
